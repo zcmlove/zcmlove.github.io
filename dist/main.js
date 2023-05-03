@@ -6635,7 +6635,7 @@
 				d()(this, t);
 				for (var r = arguments.length, o = new Array(r), a = 0; a < r; a++) o[a] = arguments[a];
 				return (n = y()(this, (e = b()(t)).call.apply(e, [this].concat(o)))).fullStyle = [
-					"/*\n* Hi。子航！\n* 在遇到你之前，我不知道心动的感觉，不向往恋爱！\n* 可你干干净净的出现在我乱糟糟的世界里，成为我的光。\n* 我说不出天花乱坠的情话，但我清楚的知道，你就是我不爱别人的理由。\n* 我不是艺术生，但是我想给你这个艺术生画个图。\n* 我要动用我的超能力，来区分一下你现在用的是手机还是电脑。\n* 你现在用的是。。。"
+					"/*\n* Hi。子航！\n* 在遇到你之前，我总是喜欢一个人待着，不向往恋爱！\n* 可你干干净净的出现在我乱糟糟的世界里，成为我的光。\n* 我说不出天花乱坠的情话，但我清楚的知道，你就是我不爱别人的理由。\n* 我不是艺术生，但是我想给你这个艺术生画个图。\n* 我要动用我的超能力，来区分一下你现在用的是手机还是电脑。\n* 你现在用的是。。。"
 					.concat(A ? "电脑" : "手机",
 						"\n*/\n\n/* 首先给所有元素加上过渡效果 */\n* {\n  -webkit-transition: all .5s;\n  transition: all .5s;\n}\n/* 白色背景太单调了。来点背景 */\nbody, html {\n  color: #fff;\n  background-color: darkslategray;\n}\n\n/* 文字太近了 */\n.styleEditor {\n  overflow: auto;\n  "
 						).concat(A ? "width: 48vw;\n  height: 96vh;" : "width: 96vw;\n  height: 48vh;",
